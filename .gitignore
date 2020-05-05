@@ -127,6 +127,7 @@ dmypy.json
 zk-kafka/
 
 # dev specific files
+.idea
 .vscode
 pyright*
 dev/
